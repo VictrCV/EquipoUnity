@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 59014f478e94a6a40ab9bb8e73b712ce
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Sprites/Unity_projects/EquipoUnity/Assets/Sprites/Maps/isaiah658's_Pixel_Pack_#2.png
+  errors:
+  - 'Missing texture asset: ../Unity_projects/EquipoUnity/Assets/Sprites/Maps/isaiah658''s_Pixel_Pack_#2.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 11
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

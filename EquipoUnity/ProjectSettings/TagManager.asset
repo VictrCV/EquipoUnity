@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Mundo
+  - Player
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1708008363
+    locked: 0
+  - name: Mundo
+    uniqueID: 665359763
+    locked: 0
+  - name: Player
+    uniqueID: 1929103655
     locked: 0

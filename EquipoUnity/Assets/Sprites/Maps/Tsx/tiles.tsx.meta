@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e58dde4c35a6d2a449c026039df1cee8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Sprites/Unity_projects/EquipoUnity/Assets/Sprites/Maps/tiles.png
+  errors:
+  - 'Missing texture asset: ../Unity_projects/EquipoUnity/Assets/Sprites/Maps/tiles.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 11
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
